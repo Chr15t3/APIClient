@@ -5,7 +5,7 @@ API com FrontEnd simples que pode cadastrar, listar e excluir usuários em tempo
 </p>
 
 <p align="center">
-  <img alt="Front" src="https://postimg.cc/kBm14Hks">
+  <img alt="Front" src="https://i.postimg.cc/jdWG80cp/Banner-Projeto-API.png">
 
   <br>
 
